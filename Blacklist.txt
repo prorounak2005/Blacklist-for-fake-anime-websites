@@ -274,3 +274,5 @@
 0.0.0.0  9anime.tube
 0.0.0.0  ww.9anime2.com
 0.0.0.0  9anime-tv.com
+0.0.0.0  animesuge.com
+0.0.0.0  animesuge.to
