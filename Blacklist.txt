@@ -277,3 +277,4 @@
 0.0.0.0  animesuge.com
 0.0.0.0  animesuge.to
 0.0.0.0  99anime.me
+0.0.0.0  kissanimes.pro
