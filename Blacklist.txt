@@ -262,3 +262,4 @@
 0.0.0.0  aniwatch.mobi
 0.0.0.0  www.aniwatch.in
 0.0.0.0  aniwatch.best
+0.0.0.0  gogoanime.space
