@@ -263,3 +263,14 @@
 0.0.0.0  www.aniwatch.in
 0.0.0.0  aniwatch.best
 0.0.0.0  gogoanime.space
+0.0.0.0  ww1.gogoanime2.org
+0.0.0.0  gogoanime.mom
+0.0.0.0  gogoanime.run
+0.0.0.0  gogoanime.onl
+0.0.0.0  aniwatch.mobi
+0.0.0.0  9anime.vc
+0.0.0.0  9anime.se
+0.0.0.0  9anime.gg
+0.0.0.0  9anime.tube
+0.0.0.0  ww.9anime2.com
+0.0.0.0  9anime-tv.com
