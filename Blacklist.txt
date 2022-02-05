@@ -278,3 +278,8 @@
 0.0.0.0  animesuge.to
 0.0.0.0  99anime.me
 0.0.0.0  kissanimes.pro
+0.0.0.0  45.32.105.33
+0.0.0.0  gogoanime.is
+0.0.0.0  gogoanime.mn
+0.0.0.0  gogoanime.nl
+0.0.0.0  gogoanime1.be
