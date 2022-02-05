@@ -283,3 +283,4 @@
 0.0.0.0  gogoanime.mn
 0.0.0.0  gogoanime.nl
 0.0.0.0  gogoanime1.be
+0.0.0.0  www.gogoanime.com
