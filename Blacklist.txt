@@ -284,3 +284,5 @@
 0.0.0.0  gogoanime.nl
 0.0.0.0  gogoanime1.be
 0.0.0.0  www.gogoanime.com
+0.0.0.0  9anime.biz
+0.0.0.0  9anime.film
