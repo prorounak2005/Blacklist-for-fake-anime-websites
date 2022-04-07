@@ -6,8 +6,10 @@ Add this blocklist to your adaway , ublock , pi-hole , adguard.
 
 # Gogoanime 
 1. gogoanime.fi
+
 2. gogoanime.gg
 
 # 9 anime
 1.9anime.me
+
 2.9anime.to
