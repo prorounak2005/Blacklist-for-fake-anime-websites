@@ -10,4 +10,5 @@ Add this blocklist to your adaway , ublock , pi-hole , adguard.
 
 # 9 anime
 1.9anime.me
+
 2.9anime.to
