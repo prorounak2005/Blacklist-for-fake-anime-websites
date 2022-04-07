@@ -4,7 +4,7 @@ Add this blocklist to your adaway , ublock , pi-hole , adguard.
 
 # How it works 
 <h3> Linux</h3>
-1. '$ sudo cp /etc/hosts /home/ur_username/Desktop' # first copy the host file to ur desktop 
+ 1. '$ sudo cp /etc/hosts /home/ur_username/Desktop' # first copy the host file to ur desktop 
 
 2. '$ cd ~/Desktop'# change directory to desktop
 
