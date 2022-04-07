@@ -289,3 +289,5 @@
 0.0.0.0  ww2.gogoanimes.org
 0.0.0.0  gogoanime.com.co
 0.0.0.0  9anime.vc
+0.0.0.0  9anime.pe
+0.0.0.0  9anime.li
