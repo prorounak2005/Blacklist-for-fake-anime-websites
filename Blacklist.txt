@@ -288,3 +288,4 @@
 0.0.0.0  9anime.film
 0.0.0.0  ww2.gogoanimes.org
 0.0.0.0  gogoanime.com.co
+0.0.0.0  9anime.vc
