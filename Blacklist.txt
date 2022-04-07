@@ -286,3 +286,5 @@
 0.0.0.0  www.gogoanime.com
 0.0.0.0  9anime.biz
 0.0.0.0  9anime.film
+0.0.0.0  ww2.gogoanimes.org
+0.0.0.0  gogoanime.com.co
