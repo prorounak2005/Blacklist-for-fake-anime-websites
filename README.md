@@ -2,6 +2,9 @@
 This is the blocklist which blocks fake anime websites. So that you can watch anime only on real websites.
 Add this blocklist to your adaway , ublock , pi-hole , adguard.  
 
+# How it works 
+<h3> In linux</h3>
+
 # Real domains
 
 # Gogoanime 
