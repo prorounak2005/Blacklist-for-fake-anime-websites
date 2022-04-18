@@ -292,3 +292,4 @@
 0.0.0.0  9anime.pe
 0.0.0.0  9anime.li
 0.0.0.0  gogoanime.la
+0.0.0.0  9anime.st
