@@ -295,3 +295,4 @@
 0.0.0.0  9anime.st
 0.0.0.0  9anime-me.pinetreecivic.com
 0.0.0.0  animixplay.pinetreecivic.com
+0.0.0.0  zoro.se
