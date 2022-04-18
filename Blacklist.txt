@@ -293,3 +293,4 @@
 0.0.0.0  9anime.li
 0.0.0.0  gogoanime.la
 0.0.0.0  9anime.st
+0.0.0.0  9anime-me.pinetreecivic.com
