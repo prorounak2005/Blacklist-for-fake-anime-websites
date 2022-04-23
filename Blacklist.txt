@@ -297,3 +297,4 @@
 0.0.0.0  animixplay.pinetreecivic.com
 0.0.0.0  zoro.se
 0.0.0.0  kissanime.mx
+0.0.0.0  gogoanime.wf
