@@ -298,3 +298,7 @@
 0.0.0.0  zoro.se
 0.0.0.0  kissanime.mx
 0.0.0.0  gogoanime.wf
+0.0.0.0  gogoanime.mn
+0.0.0.0  gogoanime2.org
+0.0.0.0  ww2.gogoanimes.org
+0.0.0.0  gogoanime1.be
