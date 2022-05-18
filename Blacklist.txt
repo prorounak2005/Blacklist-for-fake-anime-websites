@@ -302,3 +302,4 @@
 0.0.0.0  gogoanime2.org
 0.0.0.0  ww2.gogoanimes.org
 0.0.0.0  gogoanime1.be
+0.0.0.0  animekisa-to.megafilmes2.com
